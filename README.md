@@ -30,14 +30,25 @@ Lot 3 has a PSI variance of 170.29 which is over the acceptable 100 PSI variance
 - Interpretation and Findings of t-test
 Below is the summary of the t-test results across all manufacturing lots.
 ![t_test_all.PNG](t_test_all.PNG)
+
 Based on the p-value of .06 all of the manufacturing lots are similar to the population mean of 1500.
 Both Lot 1 and Lot 2 are similar to the summary statistics.
 Lot 3 has a lower p-value of .04 and lower mean of 1496.14.
-- Lot 1
+### Lot 1
 ![t_test_lot1.PNG](t_test_lot1.PNG)
-- Lot 2
+### Lot 2
 ![t_test_lot2.PNG](t_test_lot2.PNG)
-- Lot 3
+### Lot 3
 ![t_test_lot3.PNG](t_test_lot3.PNG)
 
+## Study Design: MechaCar vs Competition
+To create a statistical study to compare MechaCar against the competition would require the following.
 
+- What metric or metrics are you going to test and what data is needed to run the statistical test??
+Current price as the dependent variable with safety features, MGP, engine type and resale value as the independent variables.
+
+- What is the null hypothesis or alternative hypothesis?
+Null hypothesis - MechaCar is priced optimally based on the key metrics.
+
+- What statistical test would you use to test the hypothesis? And why?
+Linear regression would show the correlation between the current price and the independent variables.
