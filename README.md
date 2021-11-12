@@ -44,7 +44,7 @@ Lot 3 has a lower p-value of .04 and lower mean of 1496.14.
 ## Study Design: MechaCar vs Competition
 To create a statistical study to compare MechaCar against the competition would require the following.
 
-- What metric or metrics are you going to test and what data is needed to run the statistical test??
+- What metric or metrics are you going to test and what data is needed to run the statistical test?
 Current price as the dependent variable with safety features, MGP, engine type and resale value as the independent variables.
 
 - What is the null hypothesis or alternative hypothesis?
